@@ -227,7 +227,7 @@ def get_user_input() -> Dict[str, str]:
 def main():
     try:
         # Your Hugging Face token
-        HF_TOKEN = "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"
+        HF_TOKEN = "SECRET ACCESS KEY"
         if not HF_TOKEN:
             raise ValueError("Please set the HUGGING_FACE_TOKEN environment variable")
 
