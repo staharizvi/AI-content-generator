@@ -1,0 +1,9 @@
+transformers>=4.36.0
+torch>=2.1.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0
+scipy>=1.11.3
+sentencepiece>=0.1.99
+protobuf>=4.25.0
+safetensors>=0.4.1
+einops>=0.7.0
